@@ -1,0 +1,285 @@
+
+
+Ashanti Region of Ghana
+	
+Kumasi Metropolitan (Capital: Kumasi)
+Location of Ashanti Region District
+Ahafo Ano North Municipal (Capital: Tepa)
+Asante Akim North Municipal (Capital: Konongo-Odumase)
+Asante Akim South Municipal (Capital: Juaso)
+Asokore Mampong Municipal (Capital: Asokore Mampong)
+Asokwa Municipal (Capital: Asokwa)
+Atwima Nwabiagya Municipal (Capital: Nkawie)
+Bekwai Municipal (Capital: Bekwai)
+Ejisu-Juaben Municipal (Capital: Ejisu)
+Ejura/Sekyedumase Municipal (Capital: Ejura)
+Juaben Municipal (Capital: Juaben)
+Kwabre East Municipal (Capital: Mamponteng)
+Kwadaso Municipal (Capital: Kwadaso)
+Mampong Municipal (Capital: Mampong)
+Obuasi Municipal (Capital: Obuasi)
+Offinso Municipal (Capital: Offinso)
+Oforikrom Municipal (Capital: Oforikrom)
+Old Tafo Municipal (Capital: Tafo)
+Asokore Mampong Municipal (Capital: Suame)	
+Adansi Asokwa (Capital: Adansi Asokwa)
+Adansi North (Capital: Fomena)
+Adansi South (Capital: New Edubiase)
+Afigya-Kwabre North (Capital: Boamang)
+Afigya-Kwabre South (Capital: Kodie)
+Ahafo Ano South East (Capital: Adugyama)
+Ahafo Ano South West (Capital: Mankranso)
+Akrofuom (Capital: Akrofuom)
+Amansie Central (Capital: Jacobu)
+Amansie South (Capital: Manso Adubia)
+Amansie West (Capital: Manso Nkwanta)
+Asante Akim North Municipal (Capital: Agogo)
+Atwima Kwanwoma (Capital: Twedie)
+Atwima Mponua (Capital: Nyinahin)
+Atwima Nwabiagya North (Capital: Barekese)
+Bosome Freho (Capital: Asiwa)
+Bosomtwe (Capital: Kuntanase)
+Obuasi East (Capital: Tutuka)
+Offinso North (Capital: Akomadan)
+Sekyere Afram Plains (Capital: Dobrosno)
+Sekyere Central (Capital: Nsuta)
+Sekyere East (Capital: Effiduase)
+Sekyere Kumawu (Capital: Kumawu)
+Sekyere South (Capital: Agona)
+
+
+
+
+
+
+
+
+ Bono Region
+ 
+Berekum East Municipal (Capital: Berekum)
+Dormaa Central Municipal (Capital: Dormaa Ahenkro)
+Jaman South Municipal (Capital: Japekrom)
+Sunyani Municipal (Capital: Sunyani)
+Wenchi Municipal (Capital: Wenchi)
+Banda (Capital: Banda Ahenkro)
+Berekum West (Capital: Jinijini)
+Dormaa East (Capital: Wamfie)
+Dormaa West (Capital: Nkrankwanta)
+Jaman North (Capital: Sampa)
+Sunyani West (Capital: Odumase)
+Tain (Capital: Nsawkaw)
+
+
+
+
+Central Region
+ 
+Cape Coast Metropolitan (Capital: Cape Coast)
+Agona West Municipal (Capital: Agona Swedru)
+Assin Central Municipal (Capital: Assin Fosu)
+Awutu Senya East Municipal (Capital: Kasoa)
+Effutu Municipal (Capital: Winneba)
+Komenda/Edina/Eguafo/Abirem Municipal (Capital: Elmina)
+Mfantsiman Municipal (Capital: Saltpond)
+Upper Denkyira East Municipal (Capital: Dunkwa-on-Offin)
+Abura/Asebu/Kwamankese (Capital: Abura-Dunkwa)
+Agona East (Capital: Nsaba)
+Ajumako/Enyan/Essiam (Capital: Ajumako)
+Asikuma/Odoben/Brakwa (Capital: Breman Asikuma)
+Assin North (Capital: Assin Bereku)
+Assin South (Capital: Nsuaem Kyekyewere)
+Awutu Senya West (Capital: Awutu Breku)
+Ekumfi (Capital: Essarkyir)
+Gomoa Central (Capital: Gomoa Afransi)
+Gomoa East (Capital: Potsin)
+Gomoa West (Capital: Apam)
+Twifo-Atti Morkwa (Capital: Twifo Praso)
+Twifo/Heman/Lower Denkyira (Capital: Twifo Hemang)
+Upper Denkyira West (Capital: Diaso)
+
+
+
+
+
+Eastern Region
+
+Abuakwa North Municipal (Capital: Kukurantumi)
+Abuakwa South Municipal (Capital: Kibi)
+Akuapim North Municipal (Capital: Akropong)
+Birim Central Municipal (Capital: Akim Oda)
+Kwaebibirem Municipal (Capital: Kade)
+Kwahu West Municipal (Capital: Nkawkaw)
+Lower Manya Krobo Municipal (Capital: Krobo Odumase)
+New Juaben North Municipal (Capital: Koforidua-Effiduase)
+New Juaben South Municipal (Capital: Koforidua)
+Nsawam-Adoagyire Municipal (Capital: Nsawam)
+Suhum/Kraboa/Coaltar (Capital: Suhum)
+West Akim Municipal (Capital: Asamankese)
+Yilo-Krobo Municipal (Capital: Somanya)
+Achiase (Capital: Achiase)
+Akuapim South (Capital: Aburi)
+Akyemansa (Capital: Ofoase)
+Asene Manso Akroso (Capital: Manso)
+Asuogyaman (Capital: Atimpoku)
+Atiwa East (Capital: Anyinam)
+Atiwa West (Capital: Kwabeng)
+Ayensuano (Capital: Coaltar)
+Birim North (Capital: New Abirem)
+Birim South (Capital: Akim Swedru)
+Denkyembour (Capital: Akwatia)
+Fanteakwa North (Capital: Begoro)
+Fanteakwa South (Capital: Osino)
+Kwahu East (Capital: Abetifi)
+Kwahu-Afram Plains North (Capital: Donkorkrom)
+Kwahu-Afram Plains South (Capital: Tease)
+Kwahu South (Capital: Mpraeso)
+Okere (Capital: Adukrom)
+Upper Manya Krobo (Capital: Asesewa)
+Upper West Akim (Capital: Adeiso)
+
+
+
+
+Greater Accra Region
+
+Accra Metropolitan (Capital: Accra)
+Tema Metropolitan (Capital: Tema)
+Ablekuma Central Municipal (Capital: Lartebiokorshie)
+Ablekuma North Municipal (Capital: Darkuman Kokompe)
+Ablekuma West Municipal (Capital: Dansoman)
+Adenta Municipal (Capital: Adenta)
+Ashaiman Municipal (Capital: Ashaiman)
+Ayawaso Central Municipal (Capital: Kokomlemle)
+Ayawaso East Municipal (Capital: Nima)
+Ayawaso North Municipal (Capital: Accra Newtown)
+Ayawaso West Municipal (Capital: Dzorwulu)
+Ga Central Municipal (Capital: Sowutuom)
+Ga East Municipal (Capital: Abokobi)
+Ga North Municipal (Capital: Ofankor)
+Ga South Municipal (Capital: Ngleshie Amanfro)
+Ga West Municipal (Capital: Amasaman)
+Korle-Klottey Municipal (Capital: Osu)
+Kpone-Katamanso Municipal (Capital: Kpone)
+Krowor Municipal (Capital: Nungua)
+La-Dade-Kotopon Municipal (Capital: La)
+La-Nkwantanang-Madina Municipal (Capital: Madina)
+Ledzokuku Municipal (Capital: Teshie-Nungua)
+Okaikwei North Municipal (Capital: Abeka)
+Tema West Municipal (Capital: Tema II)
+Weija-Gbawe Municipal (Capital: Weija)
+Ada East (Capital: Ada Foah)
+Ada West (Capital: Sege)
+Ningo Prampram (Capital: Prampram)
+Shai Osudoku (Capital: Dodowa)
+
+
+
+
+Northern Region
+ 
+Tamale Metropolitan (Capital: Tamale)
+Gushiegu Municipal (Capital: Gushegu)
+Nanumba North Municipal (Capital: Bimbilla)
+Sagnerigu Municipal (Capital: Sagnerigu)
+Savelugu Municipal (Capital: Savelugu)
+Yendi Municipal (Capital: Yendi)
+Kpandai (Capital: Kpandai)
+Karaga (Capital: Karaga)
+ Kumbungu (Capital: Kumbungu)
+Mion (Capital: Sang)
+Nanton (Capital: Nanton)
+Nanumba South (Capital: Wulensi)
+Saboba (Capital: Saboba)
+Tatale (Capital: Tatale)
+Tolon (Capital: Saboba)
+Zabzugu (Capital: Zabzugu)
+
+
+
+
+Upper East Region
+
+Bawku Municipal (Capital: Bawku)
+Bolgatanga Municipal (Capital: Bolgatanga)
+Builsa North Municipal (Capital: Sandema)
+Kassena-Nankana Municipal (Capital: Navrongo)
+Bawku West (Capital: Zebilla)
+Binduri (Capital: Binduri)
+Bolgatanga East (Capital: Zuarungu)
+Bongo (Capital: Bongo)
+Builsa South (Capital: Fumbisi)
+Garu (Capital: Garu)
+Kassena-Nankana West (Capital: Paga)
+Nabdam (Capital: Nangodi)
+Pusiga (Capital: Pusiga)
+Talensi (Capital: Tongo)
+Tempane (Capital: Tempane)
+
+
+
+
+
+Upper West Region
+
+Jirapa Municipal (capital: Jirapa)
+Lawra Municipal (capital: Lawra)
+Nandom Municipal (capital: Nandom)
+Sissala East Municipal (capital: Tumu)
+Wa Municipal (capital: Wa)
+Daffiama-Bussie-Issa (capital: Issa)
+Lambussie-Karni (capital: Lambussie)
+Nadowli-Kaleo (capital: Nadowli)
+Sissala West (capital: Gwollu)
+Wa East (capital: Funsi)
+Wa West (capital: Wechiau)
+
+
+
+
+
+Volta Region
+
+Ho Municipal (Capital: Ho)
+Hohoe Municipal (Capital: Hohoe)
+Keta Municipal (Capital: Keta)
+Ketu North Municipal (Capital: Dzodze)
+Ketu South Municipal (Capital: Denu)
+Kpando Municipal (Capital: Kpandu)
+Adaklu (Capital: Adaklu Waya)
+Afadzato South (Capital: Ve Golokwati)
+Agotime-Ziope (Capital: Kpetoe)
+Akatsi North (Capital: Ave Dakpa)
+Akatsi South (Capital: Akatsi)
+Anloga (Capital: Anloga)
+Central Tongu (Capital: Adidome)
+Ho West (Capital: Dzolokpuita)
+North Dayi (Capital: Anfoega)
+North Tongu (Capital: Battor Dugame)
+South Dayi (Capital: Kpeve)
+South Tongu (Capital: Sogakope)
+
+
+
+
+
+Western Region
+
+Sekondi-Takoradi Metropolitan (Capital: Sekondi-Takoradi)
+Ahanta West Municipal (Capital: Agona Nkwanta)
+Effia-Kwesimintsim (Capital: Kwesimintsim)
+Jomoro Municipal (Capital: Half Assini)
+Nzema East Municipal (Capital: Axim)
+Prestea-Huni Valley Municipal (Capital: Bogoso)
+Tarkwa-Nsuaem Municipal (Capital: Tarkwa)
+Wassa Amenfi East Municipal (Capital: Wassa-Akropong)
+Wassa Amenfi West Municipal (Capital: Asankrangua)
+Ellembelle (Capital: Nkroful)
+Mpohor (Capital: Mpohor)
+Shama (Capital: Shama)
+Wassa Amenfi Central (Capital: Manso Amenfi)
+Wassa East (Capital: Daboase)
+
+
+
+
+
